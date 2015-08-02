@@ -1,0 +1,210 @@
+@font-face {
+  font-family: 'Akronim';
+  src: url('../fonts/akronim/Akronim-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Exo2bold';
+  src: url('../fonts/exo2/Exo2-Bold.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Exo2light';
+  src: url('../fonts/exo2/Exo2-Light.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Exo2Regular';
+  src: url('../fonts/exo2/Exo2-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+ @font-face {
+  font-family: 'Raleway';
+  src: url('../fonts/raleway/Raleway-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+ .raleway-font{
+  font-family: 'Raleway';
+ }
+
+ .poiret-one-font{
+  font-family: 'Poiret_One';
+ }
+
+.background-first-content {
+  background: url('../img/Jobinpal_background/5752742624_70dfaca3f8_b.jpg');
+  background-size: cover;
+  min-height: 700px;
+  width: auto;
+  border-top: 5px solid rgb(12, 194, 244);
+}
+
+.wider-jobinpal-icon {
+  background: rgb(19, 174, 216);
+  min-height: 85px;
+  border-bottom: 5px solid rgb(8, 111, 139);
+  padding: 5px;
+}
+
+.img-cen {
+  margin-left: auto!important;
+  margin-right: auto !important;
+  width: 70px;
+  height: 70px;
+}
+
+img.jp-logo {
+  margin-top: 20px;
+}
+
+
+.go-up-a-bit-30 {
+margin-top: 30px;
+}
+
+.go-up-a-bit-10 {
+margin-top: 10px;
+}
+
+.go-up-a-bit-60 {
+margin-top: 60px;
+}
+
+.go-up-a-bit-90 {
+margin-top: 90px;
+}
+
+
+.go-down-a-bit-30 {
+margin-bottom: 30px;
+}
+
+.go-down-a-bit-60 {
+margin-bottom: 60px;
+}
+
+.go-down-a-bit-90 {
+margin-bottom: 90px;
+}
+
+.white-text{
+color: white !important;
+}
+
+.blue-text{
+color: rgb(12, 194, 244) !important;
+}
+
+.header {
+  height: 100px;
+  width: auto;
+  padding: 5px;
+  box-shadow: 0 0 5px black;
+  z-index: 10;
+  background:white;
+}
+
+.img-cen-large {
+  margin-left: auto!important;
+  margin-right: auto !important;
+  margin-top: 10px;
+  width: 200px;
+  height: 70px;
+}
+
+.background-first-content-about {
+  background-size: cover;
+  background: rgb(244, 244, 244);
+  padding: 10px;
+  min-height: 500px;
+  width: auto;
+  border-top: 5px solid rgb(12, 194, 244);
+}
+
+.image-bg-content {
+  height: 200px;
+  background: url(../img/bond_hand.png);
+  background-size: cover;
+}
+
+.text-style {
+  color: white;
+  text-shadow: 0 0 5px rgb(110, 107, 107);
+}
+
+.form-box {
+  background: white;
+  width: auto;
+  min-height: 500px;
+  border-radius: 5px;
+  border: rgb(240, 240, 240) solid 2px;
+  padding: 10px;
+}
+
+.inline-list {
+display: table !important;
+margin: 0 auto !important;
+}
+
+.footer {
+  height: 63px;
+  background: rgb(12, 194, 244);
+  width: auto;
+  padding: 10px;
+}
+
+.jp-button-two-sides-all {
+  background: #15BA24 !important;
+  border-bottom: #0D8C0F solid 4px !important;
+  border-radius: 5px !important;
+}
+
+.wider-button {
+  width: 100%;
+}
+
+.jp-button-blue-two-sides-all {
+  background: #0CC2F4 !important;
+  border-bottom: #10A1C8 solid 4px !important;
+  border-radius: 5px !important;
+}
+
+.supported-card-style {
+  color: rgb(231, 232, 231);
+  text-shadow: 0 1px 0 rgb(81, 80, 80);
+}
+
+.supported-card-style {
+  color: rgb(81, 80, 80);
+  text-shadow: 0 1px 0 rgb(231, 232, 231);
+}
+
+.content-box-one-error {
+  padding: 20px;
+  width: auto;
+  min-height: 500px;
+  background: rgb(234, 24, 24);
+}
+
+.content-box-one {
+  padding: 20px;
+  width: auto;
+  min-height: 500px;
+  background: rgb(12, 194, 244);
+}
+
+.jp-button-light-blue-two-sides-all {
+  background: rgb(154, 228, 249) !important;
+  border-bottom: #10A1C8 solid 4px !important;
+  border-radius: 5px !important;
+}
