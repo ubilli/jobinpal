@@ -23,13 +23,13 @@
   <link href="css/hover.css" rel="stylesheet">
 
   <!-- Fontawesome -->
-  <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
 
-  <!-- Foundation -->
-  <link rel="stylesheet" href="vendor/foundation/css/foundation.min.css" />
+	<!-- Foundation -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css" />
 
-  <!-- Modernizr -->
-  <script src="vendor/foundation/js/vendor/modernizr.js"></script>
+	<!-- Modernizr -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/vendor/modernizr.js"></script>
 </head>
 <body>
 <div class="header">
@@ -94,16 +94,16 @@
 </div>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="vendor/foundation/js/vendor/jquery.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/vendor/jquery.js"></script>
 
   <!-- foundation js -->
-    <script src="vendor/foundation/js/foundation/foundation.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js"></script>
 
   <!-- orbit js -->
-    <script src="vendor/foundation/js/foundation/foundation.orbit.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation/foundation.orbit.min.js"></script>
 
   <!-- topbar js -->
-    <script src="vendor/foundation/js/foundation/foundation.topbar.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation/foundation.topbar.min.js"></script>
 
   <!-- scroll to fixed -->
     <script src="vendor/scrolltofixed/jquery-scrolltofixed-min.js"></script>
