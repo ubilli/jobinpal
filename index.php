@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Jobinpal Enterprises">
   <meta name="author" content="Jobinpal enterprises">
+  <meta name="google-site-verification" content="2yNrtktXWOX04umkK25IgZ6O1lxDlmn2VZgQPXeK8Ck" />
   <meta name="target" content="Students | Postgraduates | Undergraduates | Universities | Companies | Tetiary instituations | Colleges of education | Polytechnics | Organizations | Schools | Graduates | Job | CV | Dream companies | Linkedin | Jobberman">
   <meta name="Classification" content="Job finders | recruiters | cv | ">
   <meta name="robots" content="index, follow"/>
