@@ -86,8 +86,8 @@
         <li><a class="main-team-social-account" href="https://twitter.com/jobinpal"><i class="fa fa-twitter fa-3x white-text"></i></a></li>
         <li><a class="main-team-social-account" href="https://plus.google.com/+Jobinpal"><i class="fa fa-google-plus fa-3x white-text"></i></a></li>
         <li><a class="main-team-social-account" href="https://www.crunchbase.com/organization/jobinpal-enterprises"><i class="fa fa-external-link-square fa-3x white-text"></i></a></li>
-        <li><a class="main-team-social-account" href="mailto:info@jobinpal.com"><i class="fa fa-envelope fa-3x white-text"></i></a></li>
-        <li><a class="main-team-social-account" href="tel:+234(0)8132229293"><i class="fa fa-whatsapp fa-3x white-text"></i></a></li>
+        <li><a class="main-team-social-account" href="mailto:jobinpalenterprises@gmail.com"><i class="fa fa-envelope fa-3x white-text"></i></a></li>
+        <li><a class="main-team-social-account" href="tel:+234(0)7034474485"><i class="fa fa-whatsapp fa-3x white-text"></i></a></li>
       </ul>
     </div>
   </div>
