@@ -62,7 +62,7 @@
       <div class="form-box go-down-a-bit-30 go-up-a-bit-30">
         <h4 class="text-center raleway-font blue-text"><i class="fa fa-eye"></i> Help us achieve our vision.</h4>
         <hr>
-        <form method="post" action="thankyou.php">
+        <!-- <form method="post" action="thankyou.php">
           <input name="name" required type="text" class="" placeholder="What is your beautiful name ?" />
           <input name="email" required type="email" class="" placeholder="What is your beautiful email ?" />
           <button class="jp-button-two-sides-all wider-button raleway-font"><i class="fa fa-globe"></i> Thank you.</button>
@@ -72,7 +72,8 @@
         <button class="jp-button-blue-two-sides-all wider-button raleway-font"><i class="fa fa-money"></i> We appreciate your support</button>
         <ul class="inline-list">
         <li><i class="fa fa fa-cc-mastercard fa-2x supported-card-style"></i></li>
-        <li><i class="fa fa-cc-visa fa-2x supported-card-style"></i></li>
+        <li><i class="fa fa-cc-visa fa-2x supported-card-style"></i></li> -->
+        <iframe src="https://docs.google.com/forms/d/1ndwO4WjWb9txl7x8y3n3U6g1mk0TF9OE2GkAX8CYAHk/viewform?embedded=true" width="400" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
       </ul>
       </div>
     </div>
